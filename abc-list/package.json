@@ -1,10 +1,10 @@
 {
   "name": "abc-list",
   "description": "Convert a to 0, b to 1, and reverse it",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/abc-list.js",
-  "types": "dist/abc-list.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
