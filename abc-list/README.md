@@ -1,10 +1,12 @@
 # abc-list
 
-Convert 0 to a, 1 to b and reverse it.
+Convert a to 0, z to 25, and reverse it
 
 ## Installation
 
-`npm install --save abc-list`
+```bash
+npm install --save abc-list
+```
 
 ## Usage
 

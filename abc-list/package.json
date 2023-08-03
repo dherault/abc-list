@@ -1,7 +1,7 @@
 {
   "name": "abc-list",
-  "description": "Convert a to 0, b to 1, and reverse it",
-  "version": "1.0.2",
+  "description": "Convert a to 0, z to 25, and reverse it",
+  "version": "1.0.3",
   "type": "module",
   "main": "dist/abc-list.js",
   "types": "dist/index.d.ts",
